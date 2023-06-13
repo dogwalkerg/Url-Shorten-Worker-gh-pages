@@ -1,1 +1,2 @@
-# Url-Shorten-Worker-gh-pages
+# Url-Shorten-Worker
+A URL Shortener created using Cloudflare worker
